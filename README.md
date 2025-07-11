@@ -5,7 +5,7 @@
 *   implementar la función _sumar_, se le envian 2 números de parámetros
 *   implementar _resultado\_anterior, este debe retornar el valor que dió la suma anteriormente ( Storing Data), esto implica hacer algo en la función sumar🤔_
 
-_Clonar el respositorio y cuando esté resuelto subir el repositorio a tu github_
+_Hacer fork  del respositorio y cuando esté resuelto,  subir la solución a tu github_
 
 _debe dar ok el test automatico_
 
